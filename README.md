@@ -18,7 +18,7 @@ Checked greenhouse plants and watered. They are looking better!
 First day of data collection. Collected starting at 8:15am.  
 
 - 39 plants
-- Damaged 13 with hole punch (50% area) (LC plants)  
+- Damaged 13 with hole punch (50% area) (LC plants) (WHAT SIZE HP?)  
 - Damaged 13 by cutting stem 8cm up (TH plants)  
 - 13 plants undamaged as controls  (C plants)
 - Sorted plants by size and evenly split treatments between them  
