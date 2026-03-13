@@ -114,12 +114,14 @@ compi_per_dataset <- list(
   raw = list(
     data_0 = 7,
     data_1 = 7,
-    data_2 = 2
+    data_2 = 2,
+    data_3 = 7
   ),
   processed = list(
     data_0 = 5,
     data_1 = 5,
-    data_2 = 5
+    data_2 = 5,
+    data_3 = 7
   )
 )
 
