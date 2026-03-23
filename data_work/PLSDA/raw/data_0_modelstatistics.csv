@@ -1,0 +1,6 @@
+"Metric","Mean","SD"
+"Sensitivity",NA,NA
+"Specificity",0.6825,0.172349292204784
+"Precision",0.365,0.23994895989711
+"Accuracy",0.365,0.132448167245918
+"Kappa",0.0475,0.198672250868877
