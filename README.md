@@ -34,6 +34,8 @@ Second day of collection. Started at 8:15.
 - Collected all leaves again. Added another top leaf (marked with blue puffy paint).  
 - Measured height of all stems (found in [3-3-26 data collection file](datacollection_3-3-26.xlsx))
 
+**Monday April 6, 2026**  
+We decided that the plants were too variable to continue taking spec measurements. We broke down the plants and measured wet weights of the main stem and the sum of the side stems. Put them in dryer. Will measure dry weights later this week. 
 
 
 
